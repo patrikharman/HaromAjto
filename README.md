@@ -33,4 +33,4 @@ Fontos statisztikai adatokat gyűjtünk.
 Cseréléses játékok száma.
 Cserélés nélküli játékok száma.
 
-![AjtósFeladatGui](https://github.com/user-attachments/assets/cdbb50bb-6f83-4e7e-8226-a6aa6111ca21)
+![HáromAjtó](https://github.com/user-attachments/assets/e2aabd4d-8a68-4e81-840a-9a4fac9cdd0a)
