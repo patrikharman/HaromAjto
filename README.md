@@ -20,6 +20,14 @@ Cserélési lehetőség:
 
 A játék során felajánlásra kerül a csere lehetősége (cserélsz vagy nem cserélsz?).
 
+Cserefunkció
+A játék során a felhasználónak lehetősége van cserélni az eredeti választását egy másik ajtóra. A játék menete a következő:
+
+A felhasználó kiválaszt egy ajtót a három közül.
+A rendszer megmutatja a másik kettő közül egyet, amely mögött biztosan nincs nyeremény.
+Ekkor a felhasználónak felkínálja a csere lehetőségét: megtarthatja az eredeti választást, vagy átválthat a másik zárt ajtóra.
+A felhasználó döntését követően a rendszer megmutatja, hogy nyert-e vagy sem.
+
 
 
 Újraindítás:
